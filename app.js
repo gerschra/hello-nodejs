@@ -1,2 +1,2 @@
-console.log("Hello World!\n");
-
+gitconsole.log("Hello World!\n");
+console.exception("Test");
